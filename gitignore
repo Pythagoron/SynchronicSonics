@@ -1,0 +1,22 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Logs and local settings
+*.log
+config.json
+*.bak
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Ignore backup or temporary files
+*.swp
+*.swo

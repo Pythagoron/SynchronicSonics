@@ -1,0 +1,4 @@
+
+plexapi
+mutagen
+tqdm
